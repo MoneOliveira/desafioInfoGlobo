@@ -17,11 +17,11 @@ Desafio para a vaga de desenvolvedor na InfoGlobo.
 
 Caso queira testar as API's criadas no projeto, primeiro baixe o Postman. Depois de realizar o download do Postman, basta agora realizar os passos abaiaxo para poder testar cada API criada!
 
-ROTA	                        HTTP(Verbo)	Descrição
-/api/noticias   	        GET	        Selecionar Todos
-/api/noticias   	        POST	        Criar Produto
-/api/noticias/:noticia_id	GET	        Selecionar Por Id
-/api/noticias/:noticia_id	PUT	        Atualizar Por Id
-/api/noticias/:noticia_id	DELETE	        Excluir Por Id
+ROTA	HTTP(Verbo)	Descrição
+/api/noticias	 GET	Selecionar Todos
+/api/noticias	POST	Criar Noticia
+/api/noticias/:noticia_id	 GET	Selecionar Por Id
+/api/noticias/:noticia_id	PUT	Atualizar Por Id
+/api/noticias/:noticia_id	DELETE	Excluir Por Id
 
 
